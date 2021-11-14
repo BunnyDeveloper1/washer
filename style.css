@@ -1,0 +1,20 @@
+body{
+color:#012169;
+}
+.navbar-expand-lg{
+    background-color: #1877F2; # Blue
+}
+.navbar-expand-lg a{
+color: #012169; #Dark Blue
+}
+.navbar-expand-lg a:hover{
+color: white;
+}
+.carousel-caption h5 p{
+    color: #012169;
+}
+.card{
+
+border: 2px solid #1877F2;;
+border-radius:5px;
+}
