@@ -1,0 +1,176 @@
+body{
+color:#012169;
+}
+
+.navbar-expand-lg{
+    background-color: #1877F2; # Blue
+}
+.navbar-expand-lg a{
+color: #012169; #Dark Blue
+}
+.navbar-expand-lg a:hover{
+color: white;
+}
+.carousel-caption h5 p{
+    color: #012169;
+}
+.card{
+border: 2px solid #1877F2;
+border-radius:5px;
+}
+
+.pricing-table-subtitle {
+  margin-top: 68px;
+  font-weight: normal; }
+
+.pricing-table-title {
+  font-weight: bold;
+  margin-bottom: 68px; }
+
+.pricing-card {
+  border: none;
+
+  border-radius: 10px;
+  margin-bottom: 40px;
+  text-align: center;
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s; }
+  .pricing-card:hover {
+    box-shadow: 0 50px 30px 0px rgba(205, 205, 205, 0.55); }
+  .pricing-card.pricing-card-highlighted {
+    box-shadow: 0 50px 30px 0px rgba(205, 205, 205, 0.55); }
+  .pricing-card:hover {
+    box-shadow: 0 50px 30px 0px rgba(205, 205, 205, 0.55);
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px); }
+  .pricing-card .card-body {
+
+    padding-top: 55px;
+    padding-bottom: 62px; }
+
+.pricing-plan-title {
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 11px;
+  font-weight: normal; }
+
+.pricing-plan-cost {
+  font-size: 50px;
+  color: #000;
+  font-weight: bold;
+  margin-bottom: 29px; }
+
+.pricing-plan-icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  font-size: 40px;
+  line-height: 1;
+  margin-bottom: 24px; }
+  .pricing-plan-basic .pricing-plan-icon {
+    color: #fe397a; }
+  .pricing-plan-pro .pricing-plan-icon {
+    color: #10bb87; }
+  .pricing-plan-enterprise .pricing-plan-icon {
+    color: #5d78ff; }
+
+.pricing-plan-features {
+  list-style: none;
+  padding-left: 0;
+  font-size: 14px;
+  line-height: 2.14;
+  margin-bottom: 35px;
+  color: #303132; }
+
+.pricing-plan-purchase-btn {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  width: 145px;
+  height: 45px;
+  border-radius: 22.5px;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  position: relative;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-box-pack: center;
+          justify-content: center; }
+.pricing-plan-basic .pricing-plan-purchase-btn {
+    background-color: #fe397a;
+    color: #fff; }
+.pricing-plan-basic .pricing-plan-purchase-btn:hover {
+    box-shadow: 0 3px 0 0 #b7013d; }
+.pricing-plan-basic .pricing-plan-purchase-btn:active {
+    -webkit-transform: translateY(3px);
+    transform: translateY(3px);
+    box-shadow: none; }
+.pricing-plan-pro .pricing-plan-purchase-btn {
+    background-color: #10bb87;
+    color: #fff; }
+.pricing-plan-pro .pricing-plan-purchase-btn:hover {
+    box-shadow: 0 3px 0 0 #0a7554; }
+.pricing-plan-pro .pricing-plan-purchase-btn:active {
+    -webkit-transform: translateY(3px);
+    transform: translateY(3px);
+    box-shadow: none; }
+.pricing-plan-enterprise .pricing-plan-purchase-btn {
+    background-color: #5d78ff;
+    color: #fff; }
+.pricing-plan-enterprise .pricing-plan-purchase-btn:hover {
+    box-shadow: 0 3px 0 0 #1138ff; }
+.pricing-plan-enterprise .pricing-plan-purchase-btn:active {
+    -webkit-transform: translateY(3px);
+    transform: translateY(3px);
+    box-shadow: none; }
+
+.circle_img{
+width:200px;
+height:200px;
+border-radius:10px;
+
+}
+
+.book_img{
+width:100%;
+min-height:600px;
+background-image:url("https://thenewswheel.com/wp-content/uploads/2014/02/Car_Wash.jpg");
+background-size: 100% 100%;
+}
+
+.booking{
+width:100%;
+height:550px;
+background-color:rgba(0,0,0,0.5);
+color:white;
+}
+.colr{
+width:400px;
+height:50px;
+border-radius:10px;
+background-color:white;
+}
+.rd{
+width:20px;
+height:20px;
+color:red;
+}
+.colr:hover{
+background-color:#d8dfea; #lighter blue
+}
+.textarea{
+width:400px;
+border-radius:10px;
+background-color:white;
+}
+#footer{
+background-color:#1877F2;;
+}
+#footercopy{
+width:100%;
+background-color:black;
+}
