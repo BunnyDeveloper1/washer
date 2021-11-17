@@ -66,3 +66,10 @@ for(var i = 0; i < ids.length; i++){
     document.getElementById(ids[i]).style.backgroundColor = "white";
 }
 }
+
+
+setTimeout(stopanimation, 4500);
+function stopanimation(){
+    document.getElementById("img_container").style.animationPlayState = "paused";
+    document.getElementById("content_container").style.animationPlayState = "paused";
+}
