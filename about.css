@@ -1,21 +1,19 @@
-#mains{
-background-image:url('https://hdwallpaperim.com/wp-content/uploads/2017/08/25/461072-vehicle-car-Chevrolet_Chevelle-black_cars-American_cars-lowrider.jpg');
-background-size:100% 100%;
-
-}
-
 #content_container{
-background-color:rgba(255,255,255,0.7);
-height:600px;
 box-shadow: 2px 2px 15px 5px black;
 border-radius:5px;
 }
 
 #content_container:hover{
-background-color:rgba(255,255,255,0.7);
+
 transform: scale(1.01);
 box-shadow: 1px 1px 80px 1px black;
 border-radius:5px;
+}
+#imgs{
+background-image:url('https://hdwallpaperim.com/wp-content/uploads/2017/08/25/461072-vehicle-car-Chevrolet_Chevelle-black_cars-American_cars-lowrider.jpg');
+background-size:100% 100%;
+width:100%;
+min-height:500px;
 }
 
 #fc{
