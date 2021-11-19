@@ -1,12 +1,12 @@
 #content_container{
-box-shadow: 2px 2px 15px 5px black;
+box-shadow: 2px 2px 15px 5px rgba(0,0,0,0.5);
 border-radius:5px;
 }
 
 #content_container:hover{
 
 transform: scale(1.01);
-box-shadow: 1px 1px 80px 1px black;
+box-shadow: 1px 1px 20px 1px rgba(0,0,0,0.5);
 border-radius:5px;
 }
 #imgs{
